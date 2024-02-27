@@ -1,8 +1,8 @@
 {
-  "name": "d20modernwp",
+  "id": "d20modernwp",
   "title": "D20 Modern Weapon Properties",
   "description": "Adds D20 Modern weapon properties to D&D 5e",
-  "version": "0.12",
+  "version": "0.13",
   "author": "Riku",
   "systems": ["dnd5e"],
   "styles": [],
